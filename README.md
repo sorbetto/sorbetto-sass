@@ -1,6 +1,6 @@
 # SorbettoSass
 
-SorbettoSass is a Markdown-parsing plugin for [Sorbetto][sorbetto].
+SorbettoSass is a SASS-compiling plugin for [Sorbetto][sorbetto].
 
 ## Usage
 
